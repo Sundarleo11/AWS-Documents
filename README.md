@@ -86,8 +86,8 @@ References:
 
 * AWS Workshops - https://workshops.aws/`
 
-`Getting Started with AWS - https://aws.amazon.com/getting-started/hands-on/`
+* Getting Started with AWS - https://aws.amazon.com/getting-started/hands-on/
 
- `Migration Strategies - https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/`
+* Migration Strategies - https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/
 
- `CPE Youtube Playlist - https://www.youtube.com/playlist?list=PL0ieyzcmkTb-d6yNtNrAU8GQ1fov6Fr9D`
+* CPE Youtube Playlist - https://www.youtube.com/playlist?list=PL0ieyzcmkTb-d6yNtNrAU8GQ1fov6Fr9D
